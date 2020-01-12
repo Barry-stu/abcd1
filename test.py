@@ -80,6 +80,7 @@ class VerificationCode:
         return result_four
 
     def fun(self):
+        print("a")
         pass
 
 if __name__ == '__main__':
