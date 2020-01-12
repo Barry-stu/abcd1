@@ -79,6 +79,8 @@ class VerificationCode:
         # print(resultj)  # 打印识别的验证码
         return result_four
 
+    def fun(self):
+        pass
 
 if __name__ == '__main__':
     a = VerificationCode()
